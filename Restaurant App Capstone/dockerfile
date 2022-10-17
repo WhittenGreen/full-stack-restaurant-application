@@ -1,0 +1,15 @@
+FROM node:12
+ENV PORT=3006
+#Create app Directory
+RUN mkdir -p /usr/src/app
+WORKDIR /usr/src/app
+# Installing Dependencies
+COPY package*.json /usr/src/app/
+RUN npm install
+#Copying Source Files
+COPY . /usr/src/app/
+#Building App
+RUN npm run build
+EXPOSE 3005
+#Running the app
+CMD "npm" "run" "dev" "--" "-p" "3006"
