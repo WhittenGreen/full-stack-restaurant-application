@@ -1,4 +1,3 @@
-<img width="1393" alt="Screen Shot 2022-10-18 at 2 23 54 AM" src="https://user-images.githubusercontent.com/98533978/196363885-8e1da3e6-a659-4013-99e6-90732edbbaf4.png">
 # full-stack-restaurant-application
 
 ## This is my capstone project for my MIT Emeritus project
@@ -23,3 +22,4 @@ This is the first full stack website I have built using the MERN stack. It combi
 <img width="1016" alt="Screen Shot 2022-10-18 at 2 22 09 AM" src="https://user-images.githubusercontent.com/98533978/196363706-bf5f5de0-3822-4540-acd8-3f9177bfa81a.png">
 <img width="705" alt="Screen Shot 2022-10-18 at 2 22 15 AM" src="https://user-images.githubusercontent.com/98533978/196363709-cf9eeaaa-3055-4bb9-b0c5-1b7235a12789.png">
 <img width="960" alt="Screen Shot 2022-10-18 at 2 22 30 AM" src="https://user-images.githubusercontent.com/98533978/196363711-4dc280ea-3c97-45d1-95c3-f839442256eb.png">
+<img width="1393" alt="Screen Shot 2022-10-18 at 2 23 54 AM" src="https://user-images.githubusercontent.com/98533978/196363885-8e1da3e6-a659-4013-99e6-90732edbbaf4.png">
