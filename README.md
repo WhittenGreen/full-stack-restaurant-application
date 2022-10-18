@@ -1,3 +1,4 @@
+<img width="1393" alt="Screen Shot 2022-10-18 at 2 23 54 AM" src="https://user-images.githubusercontent.com/98533978/196363885-8e1da3e6-a659-4013-99e6-90732edbbaf4.png">
 # full-stack-restaurant-application
 
 ## This is my capstone project for my MIT Emeritus project
